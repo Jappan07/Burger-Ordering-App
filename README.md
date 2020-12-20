@@ -1,5 +1,5 @@
 ## Burger Builder Application w/ ReactJS
-A burger ordering application made using React JS which enables users to make a personalised burger of their liking and lets them to place the order.
+A burger ordering application made using React JS which enables users to make a personalised burger of their liking and lets them place the order.
 
 <img src="./src/assets/images/ss.png">
 
@@ -15,18 +15,18 @@ A burger ordering application made using React JS which enables users to make a 
 - CSS3 w/ Mobile First approach
 - FireBase for Database and Hosting
 
-## How Can I Start?
+## How to setup Start?
 
 <pre>npm install</pre>
 then
 <pre>npm start</pre>
 
-## How Can I Start?
+## Deployment
 
-Live version is available here: 
-https://react-my-burger-e9b44.firebaseapp.com/
+### The deployed 👉 <a href="https://react-my-burger-99cad.web.app/">App</a>: 
 
-Inspired by amazing tutor Sir Maximilian Schwarzmüller.
+
+> This project is inspired by the amazing tutor Sir Maximilian Schwarzmüller.
 #### License
 
 MIT License
