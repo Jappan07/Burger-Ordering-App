@@ -1,4 +1,7 @@
 ## Burger Builder Application w/ ReactJS
+A burger ordering application made using React JS which enables users to make a personalised burger of their liking and lets them to place the order.
+
+<img src="./src/assets/images/ss.png">
 
 ### What I used?
 
