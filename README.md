@@ -26,6 +26,7 @@ then
 Live version is available here: 
 https://react-my-burger-e9b44.firebaseapp.com/
 
+Inspired by amazing tutor Sir Maximilian Schwarzmüller.
 #### License
 
 MIT License
