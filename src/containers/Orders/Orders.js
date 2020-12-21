@@ -7,7 +7,6 @@ class Orders extends Component {
     state = {
         orders: [],
         loading: true
-
     }
 
     componentDidMount() {
